@@ -34,6 +34,10 @@ MelodyVerse is a fictional music streaming service. This project focuses on desi
 2. **Install Dependencies**
     ```bash
     npm install
+
+3. **Run the application**      
+    ```bash
+    npm start
  The application will be available at  http://localhost:3000
 
  ### Project structure
